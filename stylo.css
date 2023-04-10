@@ -1,0 +1,27 @@
+td{
+    
+    color: #dcd5d5;
+    padding: 20px;
+    text-align: center;
+
+}
+
+footer {
+    background-color: #4caa20;
+    color: #dcd5d5;
+    padding: 20px;
+    text-align: center;
+  }
+
+  button.voltar {
+    background-color: #4CAF50; /* Cor de fundo verde */
+    color: rgb(46, 211, 128); /* Texto branco */
+    border: none; /* Sem borda */
+    padding: 10px 20px; /* Espaçamento interno de 10 pixels na vertical e 20 pixels na horizontal */
+    text-align: center; /* Texto centralizado */
+    text-decoration: none; /* Sem decoração de texto */
+    display: inline-block; /* Exibição em linha */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 4px 2px; /* Espaçamento das margens */
+    cursor: pointer; /* Cursor de apontador */
+  }

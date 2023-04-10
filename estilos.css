@@ -1,0 +1,73 @@
+body {
+    background-color: #fff;
+    font-family: Arial, sans-serif; 
+    font-size: 14px;
+    margin: 0px; 
+}
+header {
+    background-color: #81c784;
+    color: #fff; 
+    padding: 2px;
+    text-align: center;
+}
+/*parte do menu*/
+nav {
+    background-color: #388e3c;
+}
+nav ul {
+    list-style: none;
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden; 
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: #fff;
+    text-align: center; 
+    padding: 10px 12px; 
+    text-decoration: none; 
+}
+nav li a:hover {
+    background-color: #81c784;
+}
+/*corpo do html*/
+main {
+    margin: 20px;
+    background-image: url(MicrosoftTeams-image.png);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+/*usado no botão para fazer cadastro na biblioteca*/
+main button {
+    background-color: #272727; 
+    font-size: medium;
+    color: rgb(215 102 18); 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+main button:hover {
+    background-color: #388e3c;
+}
+
+.caixa1 {
+    width: 900px;
+    height: auto;    
+    text-align: left;
+  }
+ 
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(215 102 18);
+  }
+
+  pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: rgba(240, 240, 235, 0.967);
+  }
